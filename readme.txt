@@ -1,7 +1,10 @@
 These are davening cards, made for winter 5781 outdoor minyanim, so people don't have to turn pages wearing gloves.
+They were prepared by Nathan Kasimer for use at Anshe Sholom B'nai Israel in Chicago.
 Because of that, their scope is limited, and they do not include certain liturgical things for other parts of the year (Chol HaMo'ed, holidays, additions for the 10 days of repentence, etc)
 Only minimal instructions are included, to maximize how much can be fit on the cards (and how large the font can be).
 This also means that the cards require flipping around a bit, but with only a page or two that shouldn't be too hard.
+The Shabbat morning cards begin at Nishmat, as many Covid-era minyanim are doing.
+I plan to add a separate card for additions for Shabbat Rosh Chodesh and Chanukkah (not needed for the mincha card).
 
 The text is from the Wikisource transcription of the Birnbaum siddur, available here: https://he.wikisource.org/wiki/%D7%94%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%94%D7%A9%D7%9C%D7%9D_(%D7%91%D7%99%D7%A8%D7%A0%D7%91%D7%95%D7%99%D7%9D)
 With slight adaptations by Nathan Kasimer.
